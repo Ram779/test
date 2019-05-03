@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-display: sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+.ram{
+    font-family: 'Courier New', Courier, monospace;
+    color: deepskyblue;
+    margin-left: 50px;
+    margin-top: 165px;
+}
+.middle{
+    position: absolute;
+    top:40%;
+    left:30%;
+    transform: translate(-50%,-50%);
+}
+.menu{
+    width: 300px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+.item{
+    border-top: 1px solid #2980b9;
+    overflow: hidden;
+}
+.btn{
+    display: block;
+    padding: 16px 20px;
+    background-color: #3498db;
+    color: white;
+    position: relative;
+}
+.btn::before{
+    content: "";
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 20px;
+    bottom: -7px;
+    background-color: #3498db;
+    transform: rotate(45deg);
+}
+.btn i{
+    margin-right: 10px;
+}
+.smenu{
+    background-color: #333;
+    overflow: hidden;
+    transition: max-height 0.3s;
+    max-height: 0;
+}
+.smenu a{
+    display: block;
+    padding: 16px 26px;
+    color: white;
+    font-size: 14px;
+    margin: 4px 0;
+    position: relative;
+}
+.smenu a::before{
+    content: "";
+    position: absolute;
+    width: 6px;
+    height: 100%;
+    background-color: #3498db;
+    left: 0;
+    top: 0;
+    transition: 0.3s;
+    opacity: 0;
+}
+.smenu a:hover::before{
+    opacity: 0;
+}
+.item:hover .smenu{
+    max-height: 10em;
+}
