@@ -1,0 +1,489 @@
+*{
+    margin: 0;
+}
+.ram{
+float:left;
+height:25%;
+width: 25%;
+background-color:red;
+}
+.mahi1{
+float:left;
+height:50%;
+width: 50%;
+background-color:gold;
+}
+.mahi2{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(100, 91, 42);
+}
+.mahi3{
+float:left;
+height:50%;
+width: 50%;
+background-color:firebrick;
+}
+.mahi4{
+float:left;
+height:50%;
+width: 50%;
+background-color:darkviolet;
+}
+.ram1{
+float:left;
+height:25%;
+width:25%;
+background-color:blue;
+}
+.tiru1{
+float:left;
+height:50%;
+width: 50%;
+background-color:royalblue;
+}
+.tiru2{
+float:left;
+height:50%;
+width: 50%;
+background-color:palegreen;
+}
+.tiru3{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(100, 91, 42);
+}
+.tiru4{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(123, 138, 184);
+}
+
+.ram2{
+float:left;
+height:25%;
+width:25%;
+background-color:black;
+}
+.nasr1{
+float:left;
+height:50%;
+width: 50%;
+background-color:white;
+}
+.nasr2{
+float:left;
+height:50%;
+width: 50%;
+background-color:palevioletred;
+}
+.nasr3{
+float:left;
+height:50%;
+width: 50%;
+background-color:olive;
+}
+.nasr4{
+float:left;
+height:50%;
+width: 50%;
+background-color:mediumturquoise;
+}
+.ram3{
+float:left;
+height:25%;
+width:25%;
+background-color:brown;
+}
+.ravi{
+float:left;
+height:50%;
+width: 50%;
+background-color:blueviolet;
+}
+.ravi2{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(183, 141, 223);
+}
+.ravi3{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(5, 0, 8);
+}
+.ravi4{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(49, 155, 182);
+}
+.ram4{
+float:left;
+height:25%;
+width:25%;
+background-color:purple;
+}
+.rakesh{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(112, 68, 138);
+}
+.rakesh1{
+float:left;
+height:50%;
+width: 50%;
+background-color:goldenrod;
+}
+.rakesh2{
+float:left;
+height:50%;
+width: 50%;
+background-color:sienna;
+}
+.rakesh3{
+float:left;
+height:50%;
+width: 50%;
+background-color:seagreen;
+}
+.ram5{
+float:left;
+height:25%;
+width:25%;
+background-color:powderblue;
+}
+.sri1{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(43, 83, 61);
+}
+.sri2{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(19, 26, 22);
+}
+.sri3{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(2, 231, 101);
+}
+.sri4{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(56, 30, 172);
+}
+.ram6{
+float:left;
+height:25%;
+width:25%;
+background-color:orangered;
+}
+.sai1{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(30, 172, 141);
+}
+.sai2{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(30, 172, 54);
+}
+.sai3{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(158, 172, 30);
+}
+.sai4{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(167, 30, 172);
+}
+.ram7{
+float:left;
+height:25%;
+width:25%;
+background-color:midnightblue;
+}
+.ramu1{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(181, 106, 184);
+}
+.ramu2{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(60, 62, 194);
+}
+.ramu3{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(4, 34, 32);
+}
+.ramu4{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(172, 186, 187);
+}
+.ram8{
+float:left;
+height:25%;
+width:25%;
+background-color:seagreen;
+}
+.nagesh1{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(21, 47, 49);
+}
+.nagesh2{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(37, 54, 207);
+}
+.nagesh3{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(186, 172, 187);
+}
+.nagesh4{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(184, 91, 15);
+}
+.ram9{
+float:left;
+height:25%;
+width:25%;
+background-color:pink;
+}
+.chukka1{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(228, 119, 29);
+}
+.chukka2{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(32, 16, 3);
+}
+.chukka3{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(16, 238, 72);
+}
+.chukka4{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(91, 96, 180);
+}
+.ram10{
+float:left;
+height:25%;
+width:25%;
+background-color:indigo;
+}
+.manu1{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(233, 26, 60);
+}
+.manu2{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(28, 4, 112);
+}
+.manu3{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(3, 22, 24);
+}
+.manu4{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(16, 6, 59);
+}
+.ram11{
+float:left;
+height:25%;
+width:25%;
+background-color:darkorange;
+}
+.vinay1{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(15, 80, 133);
+}.vinay2{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(24, 150, 24);
+}.vinay3{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(145, 160, 13);
+}.vinay4{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(82, 5, 105);
+}
+
+.ram12{
+float:left;
+height:25%;
+width:25%;
+background-color:darkslategrey;
+}
+.karthik1{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(37, 161, 53);
+}
+.karthik2{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(150, 38, 100);
+}
+.karthik3{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(176, 45, 216);
+}
+.karthik4{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(182, 57, 77);
+}
+.ram13{
+float:left;
+height:25%;
+width:25%;
+background-color:rgb(123, 123, 204);
+}
+.shiva1{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(5, 105, 43);
+}
+.shiva2{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(27, 5, 105);
+}
+.shiva3{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(105, 5, 30);
+}
+.shiva4{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(5, 82, 105);
+}
+.ram14{
+float:left;
+height:25%;
+width:25%;
+background-color:deeppink;
+}
+.bobby1{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(154, 99, 170);
+}
+.bobby2{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(105, 45, 5);
+}
+.bobby3{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(212, 197, 216);
+}
+.bobby4{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(20, 172, 164);
+}
+.ram15{
+float:left;
+height:25%;
+width:25%;
+background-color:gray;
+}
+.dhaya1{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(64, 66, 141);
+}
+.dhaya2{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(10, 66, 63);
+}
+.dhaya3{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(139, 41, 110);
+}
+.dhaya4{
+float:left;
+height:50%;
+width: 50%;
+background-color:rgb(20, 172, 164);
+}
+
+.ram16{
+float:left;
+height:25%;
+width:25%;
+background-color:greenyellow;
+}
